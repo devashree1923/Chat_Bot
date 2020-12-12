@@ -1,0 +1,5 @@
+{"intents":[
+    {"tags": "greetings",
+    "patterns": ["hello","hi","hey"],
+    "response":["Hello! What can I do for you?"]}
+]}
